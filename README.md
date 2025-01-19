@@ -13,7 +13,7 @@ The assignment was solved in a group of 3 people (Julia Lorenc, Giuseppe Pio Lan
 The goal of the assignment is to estimate the relationship between speech in congress (Senate and House of Representatives) in the US and political party, Republican versus Democrat, with an MNIR (Multinomial Inverse Regression) model.
 
 ## Data 
-CongressionalRecords.RData in `Data` folder contains individual speeches by congress members in the years 2021 to 2023. The raw data was scraped from [https://www.congress.gov/congressional-record/archive](https://www.congress.gov/congressional-record/archive).
+[CongressionalRecords.RData](https://drive.google.com/file/d/1cgreuhP8EktQm6VOXlQDOGq5BUQgtTA9/view?usp=sharing) contains individual speeches by congress members in the years 2021 to 2023. The raw data was scraped from [https://www.congress.gov/congressional-record/archive](https://www.congress.gov/congressional-record/archive).
 
 ## Analysis
 The procedure for the analysis and algorithm evaluation are the following:
